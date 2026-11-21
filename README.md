@@ -56,6 +56,24 @@ Phaser와 TypeScript 기반의 공통 게임 시스템으로, 특정 웹 서비�
 
 React 기반 음원 스트리밍 웹 서비스로, Pixel World Engine을 활용하여 음악방과 야외 정원을 구현하는 첫 번째 적용 프로젝트입니다.
 
+## 🚀 Development Roadmap
+
+| 단계 | 개발 내용 | 기술 스택 | 결과물 |
+|---|---|---|---|
+| 01 | 픽셀 아트 및 맵 제작 | LibreSprite, Tiled, Figma | 정원 맵 및 기본 에셋 |
+| 02 | 공통 게임 엔진 개발 | TypeScript, Phaser | 독립형 Pixel World Engine |
+| 03 | 가구 배치 시스템 | Phaser, TypeScript, Zod | 가구 편집 시스템 |
+| 04 | 환경 및 상호작용 | Phaser, Web Audio API | 인터랙티브 힐링 정원 |
+| 05 | React SDK 개발 및 Music Garden 연동 | React, Vite, Zustand, Web Audio API | React SDK 및 Music Garden 프론트엔드 |
+| 06 | 백엔드 및 데이터 저장 | NestJS, Prisma, PostgreSQL, Docker | 데이터 저장 및 조회 시스템 |
+| 07 | 재사용성 검증 및 배포 | pnpm Workspaces, Vitest, GitHub Actions | 재사용 가능한 SDK 및 적용 사례 |
+
+### 🎯 Development Goals
+
+- Pixel World Engine: 캐릭터 이동, 가구 배치, 상호작용, 맵 전환 등을 제공하는 독립적인 게임 엔진
+- Music Garden: Pixel World Engine을 활용한 인터랙티브 음원 스트리밍 웹사이트
+- Reusability: 다양한 웹 서비스에 적용할 수 있는 공통 라이브러리 개발
+
 ## 🚀 Future Plans
 
 - 아이소메트릭 픽셀 아트 월드 구현
