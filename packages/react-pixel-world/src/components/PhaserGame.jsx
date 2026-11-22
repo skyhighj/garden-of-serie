@@ -1,7 +1,7 @@
 
 import { useEffect, useRef } from 'react';
 import Phaser from 'phaser';
-import GardenScene from '../game/scenes/GardenScene';
+import GardenScene from '../../../../apps/music-garden/frontend/src/game/scenes/GardenScene';
 
 export default function PhaserGame() {
   const gameRef = useRef(null);

@@ -1,5 +1,5 @@
 
-import PhaserGame from './components/PhaserGame';
+import PhaserGame from '../../../../packages/react-pixel-world/src/components/PhaserGame';
 import './App.css';
 
 function App() {
