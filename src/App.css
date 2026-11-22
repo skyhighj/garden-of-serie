@@ -1,0 +1,18 @@
+
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  width: 100%;
+}
+
+.game-container {
+  width: 100%;
+  max-width: 800px;
+}
+
+.game-container canvas {
+  display: block;
+  width: 100%;
+}
