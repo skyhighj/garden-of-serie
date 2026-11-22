@@ -1,4 +1,8 @@
-# 🌿 프로젝트 : 제리에의 정원 (garden-of-serie)🌿
+# 🌿 PROJECT : Windy Garden 🌿
+
+“A little garden, a world of your own.”
+
+" 나만의 작은 정원, 나만의 세계 "
 
 재사용 가능한 아이소메트릭 픽셀 아트 기반 인터랙티브 월드 엔진
 
